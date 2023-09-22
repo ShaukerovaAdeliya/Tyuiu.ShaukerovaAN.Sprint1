@@ -4,12 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-using Tyuiu.ShaukerovaAN.Sprint1.Task0.V19.Lib;
+using Tyuiu.ShaukerovaAN.Sprint1.Task0.V18.Lib;
 
 // ЗАДАНИЕ
 //Написать программу, которая вычиссляет выражение 9 * (6 / 2 * 3) / 9 / 3 и печатает результат на экране
 
-namespace Tyuiu.ShaukerovaAN.Sprint1.Task0.V19
+namespace Tyuiu.ShaukerovaAN.Sprint1.Task0.V18
 {
     class Program
     {
